@@ -22,7 +22,3 @@ jobs:
         run: |
           docker build -t ${{ secrets.DOCKER_USERNAME }}/flask-devops:latest .
           docker push ${{ secrets.DOCKER_USERNAME }}/flask-devops:latest
-
-      - name: Deploy to Kubernetes
-        run: |
-          kubectl apply -f k8s/
