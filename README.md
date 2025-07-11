@@ -84,4 +84,5 @@ minikube service flask-service --url
 ✅ Real-time Kubernetes deployment using kubectl
 
 ✅ End-to-end automation with infrastructure as code
---
+---
+<img width="1024" height="1024" alt="e1c173a1-712f-4633-a3e5-0662e60040ca" src="https://github.com/user-attachments/assets/f605fd9e-1167-4d23-8d68-18cc31612de1" />
